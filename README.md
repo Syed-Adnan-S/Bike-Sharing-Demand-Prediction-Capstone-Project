@@ -105,7 +105,7 @@ If you find any mistakes or have any suggestions for me, please reach out to me,
 
 You can also reach out to me for project collaborations.
 
-My Email Id - [Email](syedshabbir107@gmail.com)
+My Email Id - <u>syedshabbir107@gmail.com</u>
 
 My LinkedIn profile - [Profile](https://www.linkedin.com/in/syed-adnan-s-2b899b228/)</b>
 
