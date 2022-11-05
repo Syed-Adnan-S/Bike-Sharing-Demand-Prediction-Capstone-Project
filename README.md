@@ -73,29 +73,26 @@ Attribute Information:
 ### <b>Conclusion:</b>
 
 1. EDA insights:
-
-  * Most number of bikes are rented in the Summer season and the lowest in the winter season.
-  * Over 96% of the bikes are rented on days that are considered as No Holiday.
-  * Most number of bikes are rented in the temperature range of 15 degrees to 30 degrees.
-  * Most number of bikes are rented when there is no snowfall or rainfall.
-  * Majority of the bikes are rented for a humidity percentage range of 30 to 70.
-  * The highest number of bike rentals have been done in the 18th hour, i.e 6pm, and lowest in the 4th hour, i.e 4am.
-  * Most of the bike rentals have been made when there is high visibility.
+     * Most number of bikes are rented in the Summer season and the lowest in the winter season.
+     * Over 96% of the bikes are rented on days that are considered as No Holiday.
+     * Most number of bikes are rented in the temperature range of 15 degrees to 30 degrees.
+     * Most number of bikes are rented when there is no snowfall or rainfall.
+     * Majority of the bikes are rented for a humidity percentage range of 30 to 70.
+     * The highest number of bike rentals have been done in the 18th hour, i.e 6pm, and lowest in the 4th hour, i.e 4am.
+     * Most of the bike rentals have been made when there is high visibility.
 
 2. Results from ML models:
-
-  * Random Forest Regression is the best performing model with an r2 score of 0.6645.
-  * Lasso Regression(L1 regularization) is the worst performing model with an r2 score of 0.4264.
-  * Actual vs Prediction visualisation is done for all the 4 models.
-  * All 4 models have been explained with the help of SHAP library.
-  * Temperature and Hour are the two most important factors according to all the models.
+     * Random Forest Regression is the best performing model with an r2 score of 0.6645.
+     * Lasso Regression(L1 regularization) is the worst performing model with an r2 score of 0.4264.
+     * Actual vs Prediction visualisation is done for all the 4 models.
+     * All 4 models have been explained with the help of SHAP library.
+     * Temperature and Hour are the two most important factors according to all the models.
 
 3. Challenges faced:
-
-  * Removing Outliers.
-  * Encoding the categorical columns.
-  * Removing Multicollinearity from the dataset.
-  * Choosing Model explainability technique.
+     * Removing Outliers.
+     * Encoding the categorical columns.
+     * Removing Multicollinearity from the dataset.
+     * Choosing Model explainability technique.
 
 ![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
 
