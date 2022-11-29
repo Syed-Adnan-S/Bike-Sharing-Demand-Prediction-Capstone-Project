@@ -1,20 +1,20 @@
 # Bike Sharing Demand Prediction Capstone Project
 
-![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
+![rainbow](https://user-images.githubusercontent.com/85065799/204543278-26c507b6-400a-42e0-852f-2e09362f6e12.png)
 
 ## Project tile - Seoul Bike Sharing Demand Prediction
 
 ### <b>Description:</b> 
 This is a supervised ML (regression) capstone project on bike sharing demand prediction given by [Alma Better](https://www.almabetter.com/).
 
-![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
+![rainbow](https://user-images.githubusercontent.com/85065799/204543278-26c507b6-400a-42e0-852f-2e09362f6e12.png)
 
 ### <b>Problem statement:</b>
 Currently Rental bikes are introduced in many urban cities for the enhancement of mobility comfort. It is important to make the rental bike available and accessible to the public at the right time as it lessens the waiting time. Eventually, providing the city with a stable supply of rental bikes becomes a major concern. The crucial part is the prediction of bike count required at each hour for the stable supply of rental bikes.
 
 ![pic1](https://user-images.githubusercontent.com/85065799/200127764-29477a72-21b9-4bc8-97cd-6bb650395442.jpg)
 
-![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
+![rainbow](https://user-images.githubusercontent.com/85065799/204543278-26c507b6-400a-42e0-852f-2e09362f6e12.png)
 
 #### <b>Note:</b> Dataset is provided by the company, Alma Better.
 
@@ -37,7 +37,7 @@ Attribute Information:
 * Holiday - Holiday/No holiday
 * Functional Day - NoFunc(Non Functional Hours), Fun(Functional hours)
 
-![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
+![rainbow](https://user-images.githubusercontent.com/85065799/204543278-26c507b6-400a-42e0-852f-2e09362f6e12.png)
 
 ### <b>Project Flowchart:</b>
 1. Initial preparations(Loading the dependencies and the data)
@@ -68,7 +68,7 @@ Attribute Information:
 
 7. Model explainability
 
-![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
+![rainbow](https://user-images.githubusercontent.com/85065799/204543278-26c507b6-400a-42e0-852f-2e09362f6e12.png)
 
 ### <b>Conclusion:</b>
 
@@ -94,7 +94,7 @@ Attribute Information:
      * Removing Multicollinearity from the dataset.
      * Choosing Model explainability technique.
 
-![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
+![rainbow](https://user-images.githubusercontent.com/85065799/204543278-26c507b6-400a-42e0-852f-2e09362f6e12.png)
 
 <b> For further information you can check the google colab file added in the repository. 
 
